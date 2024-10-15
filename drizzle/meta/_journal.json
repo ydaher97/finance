@@ -1,0 +1,34 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1720042278093,
+      "tag": "0000_mysterious_darwin",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1720094633337,
+      "tag": "0001_odd_guardian",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1720470068720,
+      "tag": "0002_glamorous_eternity",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1720626003177,
+      "tag": "0003_supreme_blockbuster",
+      "breakpoints": true
+    }
+  ]
+}
